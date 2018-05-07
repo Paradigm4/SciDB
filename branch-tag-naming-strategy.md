@@ -9,8 +9,7 @@ at master. So while SciDB is current at `18.1`, there should be no `v18.1` branc
 Proposal is to create `relXX.Y.Z` (where `XX.Y` is the scidb version, and `Z` is the minor releases numbered `1, 2, ...`). 
 It is OK if we use `vXX.Y.ZZ` here instead of release. 
 If we decide to go this route, then the change needs to be made in all the plugins where `relXX.Y.Z` is used.
-- **Use of tags for extra-scidb-libs**: Only tags should be used for building `extra-scidb-libs` (i.e. in the `install.sh` 
-script). Otherwise if a branch is used, we can easily break the build by pushing a change to that commit. 
+- **Use of tags for extra-scidb-libs**: Only tags should be used for building `extra-scidb-libs` ([here](https://github.com/Paradigm4/extra-scidb-libs/blob/master/extra-scidb-libs.sh#L89)). Otherwise if a branch is used, we can easily break the build by pushing a change to that commit. 
 
 ## Edit to old naming convention
 
