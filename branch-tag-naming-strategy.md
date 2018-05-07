@@ -1,6 +1,6 @@
 # Branch and tag naming convention for P4 Github repos
 
-The following is a proposal for branch and tag naming strategy for Paradigm4 plugins and repositories (e.g. Shim).
+The following is a proposal for branch and tag naming strategy for Paradigm4 plugins (e.g. accelerated_io_tools) and repositories (e.g. Shim).
 
 - **Branches**: Versions of plugins that work on old SciDB versions should branch off at vXX.Y (e.g. v15.7, v15.12). 
 - **Master branch**: The version of plugin that works on latest version of SciDB (and active development) is 
