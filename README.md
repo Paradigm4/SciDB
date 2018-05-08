@@ -1,4 +1,4 @@
-(Markdown used to generate `README.pdf` at https://drive.google.com/drive/folders/1ns5l39SVS9OjJM8-ahHKgXOwguSFjjuo)
+(**NOTE**: This is the Markdown used to generate the `README.pdf` at https://drive.google.com/drive/folders/1ns5l39SVS9OjJM8-ahHKgXOwguSFjjuo)
 
 # Links
 
