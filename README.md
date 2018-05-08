@@ -1,4 +1,7 @@
-(**NOTE**: This file is the Markdown used to generate the `README.pdf` at https://drive.google.com/drive/folders/1ns5l39SVS9OjJM8-ahHKgXOwguSFjjuo. This repo is used as a public space for filing scidb issues, though the [SciDB forum](http://forum.paradigm4.com/) is probably a better option for the same). 
+**NOTE**: 
+
+- This file is the Markdown used to generate the `README.pdf` at https://drive.google.com/drive/folders/1ns5l39SVS9OjJM8-ahHKgXOwguSFjjuo. 
+- This repo is used as a public space for filing scidb issues, though the [SciDB forum](http://forum.paradigm4.com/) is probably a better option for the same. 
 
 # Links
 
